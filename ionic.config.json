@@ -1,0 +1,8 @@
+{
+  "name": "easydaylist",
+  "app_id": "2d0479b1",
+  "type": "ionic-angular",
+  "integrations": {
+    "cordova": {}
+  }
+}
